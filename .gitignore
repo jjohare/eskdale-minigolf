@@ -30,3 +30,7 @@ gis_data/*.bin
 
 # Frame sequences for terrain flythrough
 renders/terrain_flythrough/
+renders/flythrough3/
+
+# Intermediate fix renders
+renders/fix_*.png
