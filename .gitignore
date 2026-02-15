@@ -1,0 +1,25 @@
+# Frame sequences (large PNG dirs - videos kept instead)
+renders/flythrough/
+renders/flythrough2/
+renders/windmill_anim/
+renders/windmill_anim2/
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# Internal state
+.swarm/
+.claude-flow/
+__pycache__/
+*.pyc
+
+# MCP config (local only)
+.mcp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test renders
+blender_test_render.png
