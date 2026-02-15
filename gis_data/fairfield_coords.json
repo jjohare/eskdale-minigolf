@@ -1,0 +1,16 @@
+{
+  "center_lat": 54.3876,
+  "center_lon": -3.3224,
+  "north": 54.39472222222222,
+  "south": 54.380833333333335,
+  "west": -3.3294444444444444,
+  "east": -3.3155555555555556,
+  "rows": 50,
+  "cols": 50,
+  "elevation_range": [
+    19,
+    142
+  ],
+  "center_elevation": 49,
+  "pixel_size_m": 30
+}

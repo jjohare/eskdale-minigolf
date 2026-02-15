@@ -1,0 +1,17 @@
+{
+  "fairfield_lat": 54.3876,
+  "fairfield_lon": -3.3224,
+  "fairfield_dem_row": 25,
+  "fairfield_dem_col": 25,
+  "terrain_width_m": 900.2988432840033,
+  "terrain_height_m": 1546.1111111107596,
+  "dem_rows": 50,
+  "dem_cols": 50,
+  "elev_min": 19,
+  "elev_max": 142,
+  "elev_range": 123,
+  "fairfield_elev": 49,
+  "texture_size": 2048,
+  "golf_x_norm": 0.5,
+  "golf_y_norm": 0.5
+}

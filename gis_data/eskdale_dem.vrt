@@ -1,0 +1,10 @@
+<VRTDataset rasterXSize="80" rasterYSize="80">
+  <SRS>EPSG:4326</SRS>
+  <GeoTransform>-3.3158333333333334, 0.0002777777777777768, 0, 54.40694444444444, 0, -0.0002777777777777324</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <SourceFilename relativeToVRT="1">eskdale_dem_raw.bin</SourceFilename>
+    <ImageOffset>0</ImageOffset>
+    <PixelOffset>2</PixelOffset>
+    <LineOffset>160</LineOffset>
+  </VRTRasterBand>
+</VRTDataset>
