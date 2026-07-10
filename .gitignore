@@ -32,5 +32,8 @@ gis_data/*.bin
 renders/terrain_flythrough/
 renders/flythrough3/
 
-# Intermediate fix renders
+# Intermediate fix / iteration renders (large ~2MB PNGs from terrain-cut
+# debugging passes; final deliverables are the final_*.jpg / overview_*.jpg set)
 renders/fix_*.png
+renders/cut_*.png
+renders/hole_fix_*.png
