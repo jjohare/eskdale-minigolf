@@ -1,0 +1,14 @@
+# Host-side Python dependencies for driving the Blender build pipeline.
+#
+# These are required by the scripts in scripts/ that run OUTSIDE Blender
+# (DEM fetching, texture processing, and the websocket bridge to blender-mcp).
+#
+# Blender-internal modules (bpy, bmesh, mathutils) are provided by Blender 5.0
+# itself and are NOT installed via pip.
+#
+# Install:  python3 -m pip install -r requirements.txt
+
+numpy>=1.24
+Pillow>=10.0
+requests>=2.31
+websocket-client>=1.6
